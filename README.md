@@ -7,7 +7,9 @@ I am currently a Computer Science masters student at the George Washington Unive
 
 ## Skills
 Programming & Frameworks: Java, Python, SQL, Spring Boot, Django, Flask, HTML, CSS, GraphQL
+
 AI & Machine Learning: PyTorch, TensorFlow, LLMs, Reinforcement Learning, ANNs, Prompt Engineering, AI Agents 
+
 Tools & Technologies: Mac, Windows, Linux, Git, GitHub, MySQL, AWS, Apollo
 
 ## Education
