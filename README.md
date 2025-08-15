@@ -6,7 +6,8 @@ I am currently a Computer Science masters student at the George Washington Unive
 - Automating Whitman College’s Opentrons OT2 robot to autonomously identify optimal reagent concentrations for synthesizing nanocrystals—empowering chemists with a valuable research tool.
 
 ## Skills
-Programming & Frameworks: Java, Python, SQL, Flask, Spring Boot, Django, GraphQL, HTML, CSS, TensorFlow, Junit 
+Programming & Frameworks: Java, Python, SQL, Spring Boot, Django, Flask, HTML, CSS, GraphQL
+AI & Machine Learning: PyTorch, TensorFlow, LLMs, Reinforcement Learning, ANNs, Prompt Engineering, AI Agents 
 Tools & Technologies: Mac, Windows, Linux, Git, GitHub, MySQL, AWS, Apollo
 
 ## Education
