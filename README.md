@@ -20,6 +20,7 @@ Tools & Technologies: Mac, Windows, Linux, Git, GitHub, MySQL, AWS, Apollo
 ## How to Reach Me
 - Email: cmgomez1008@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/chrisgomez08/)
+- [Personal Chatbot](https://huggingface.co/spaces/gomezc/conversation_rag_agent)
 <!--
 **gomezc08/gomezc08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
