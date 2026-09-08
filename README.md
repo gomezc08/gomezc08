@@ -1,37 +1,33 @@
-# About Me!
-## Bio
-I am a Software Engineer at Gusto in San Francisco, specializing in AI. Pursuing a Masters degree in CS, I take pride and operate at the intersection of engineering and research by being able to both build robust systems while staying deeply engaged with emerging concepts. I would say my "people driven" mentality fuels my passion for creating (and wanting to create) meaningful technology.
-A few highlights of my experiences include: 
-- Developing an internal AI tool at Gusto that delivers a more personalized and engaging experience for partner companies.
-- Building an object typing tool that improves copy speeds for HP printer users.
-- Automating Whitman College’s Opentrons OT2 robot to autonomously identify optimal reagent concentrations for synthesizing nanocrystals—empowering chemists with a valuable research tool.
+# Hi, I'm Chris 👋
 
-## Skills
-Programming & Frameworks: Java, Python, SQL, Rails, Django, Flask, HTML, CSS, GraphQL
+Software Engineer at Gusto (San Francisco), on the Expansion Experiences team. I build recommendation-driven personalization features for partner companies, working where engineering meets applied AI.
 
-AI & Machine Learning: PyTorch, TensorFlow, LLMs, Reinforcement Learning, ANNs, Prompt Engineering, AI Agents, LangChain, LangGraph
+Right now: a recommendation-model overview experience that surfaces the right nudges to the right users at the right time.
 
-Tools & Technologies: Mac, Windows, Linux, Git, GitHub, MySQL, AWS, Apollo
+### Previously
 
-## Education
-- George Washington University: M.S. in Computer Science (Aug 2024 - May 2026)
-- Whitman College: B.A. in Computer Science/Mathematics (Aug 2020 - May 2024)
+- **Clavr** (Co-Founder, 2026) — Co-founded an ambient AI orchestration system using Hybrid GraphRAG to turn real-time conversational data into autonomous, high-precision actions
+- **Gusto** (Intern, 2025) — Built an AI-powered personalization engine generating sales copy to drive partner engagement
+- **HP** (Intern, 2023) — Built an image-typing tool to separate text from non-text elements, boosting copy speed 15% and improving image quality
 
-## How to Reach Me
+### What I'm into
+- Applied AI & recommendation systems
+- Agentic workflows, orchestration, and LLM tooling
+- Systems engineering with a focus on scale and reliability
+
+### Tech I use
+Java · Python · SQL · TypeScript · HTML/CSS
+Rails · Django · Flask · GraphQL
+PyTorch · TensorFlow · LangChain · LangGraph
+Git · MySQL · AWS · Apollo
+
+### Education
+
+- George Washington University — M.S. Computer Science (2024–2026)
+- Whitman College — B.A. Computer Science/Mathematics (2020–2024)
+
+### Elsewhere
+
 - Email: cmgomez1008@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/chrisgomez08/)
-- [Personal Chatbot](https://huggingface.co/spaces/gomezc/conversation_rag_agent)
-<!--
-**gomezc08/gomezc08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: [linkedin.com/in/chrisgomez08](https://www.linkedin.com/in/chrisgomez08/)
+- Personal Chatbot: [huggingface.co/spaces/gomezc/conversation_rag_agent](https://huggingface.co/spaces/gomezc/conversation_rag_agent)
