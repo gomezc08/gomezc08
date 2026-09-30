@@ -30,4 +30,4 @@ Git · MySQL · AWS · Apollo
 
 - Email: cmgomez1008@gmail.com
 - LinkedIn: [linkedin.com/in/chrisgomez08](https://www.linkedin.com/in/chrisgomez08/)
-- Personal Chatbot: [huggingface.co/spaces/gomezc/conversation_rag_agent](https://huggingface.co/spaces/gomezc/conversation_rag_agent)
+- Personal Website: [https://chris-night-field-vercel.vercel.app/](https://chris-night-field-vercel.vercel.app/)
